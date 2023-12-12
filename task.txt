@@ -1,0 +1,10 @@
+Write a function or script to  check if a set of numbers compared isStreak
+
+Streak means if say a set of numbers A =[1,2,3,4,5]
+A is a streak because it has an interval of 1 or a difference of 1
+B =[]
+
+Task 4. 
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9 
+eg. isStreak ----> 7,8,0,9,1 || 9,0,1,2,3
+    isNotStreak ----> 2,3,6,5,7 || 0,2,8,7,9
